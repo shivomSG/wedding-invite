@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Bakbak+One&family=Noto+Serif+Devanagari:wght@400;700&family=Palanquin+Dark:wght@400;700&family=Poppins:wght@400;600;700&family=Sahitya:wght@400;700&family=Tiro+Devanagari+Sanskrit:ital@0;1&family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ShreeDev5021&family=ShreeDev2492&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
