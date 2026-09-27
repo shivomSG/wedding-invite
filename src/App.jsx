@@ -231,7 +231,7 @@ useEffect(() => {
           </div>
               
               
-              <p className="font-yatra text-white/80 tracking-widest text-[50px]  uppercase mb-8">आमंत्रण </p>
+              <p className="font-yatra text-white/80 tracking-widest text-[50px]  uppercase mb-8">निमंत्रण </p>
               
               {/* The clickable Wax Seal */}
               <motion.button
